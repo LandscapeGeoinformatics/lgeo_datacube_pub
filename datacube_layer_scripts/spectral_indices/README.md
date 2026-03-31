@@ -6,5 +6,7 @@ We use the following scripts:
 * [calc_landsat_indices.ipynb](./calc_landsat_indices.ipynb): Calculates seasonal spectral indices for Landsat by combining Landsat 8 and Landsat 9 collections.
 * [calc_s1_indices.ipynb](./calc_s1_indices.ipynb): Calculates seasonal RVI and VVVHR indices for Sentinel-1.
 * [calc_s2_indices.ipynb](./calc_s2_indices.ipynb): Calculates seasonal spectral indices for Sentinel-2.
+* [generate_range_images.py](./generate_range_images.py): Generates seasonal range images based on existing maximum and minimum images in the Google bucket.
+* [generate_range_images.sh](./generate_range_images.sh): Job submission script for generating range images on the HPC.
 * [speckle_filter.py](./speckle_filter.py): Contains the speckle filter function used in [calc_s1_indices.ipynb](./calc_s1_indices.ipynb).
 * [utils.py](./utils.py): Contains helper functions used for tiling and metadata handling in the spectral index calculation workflows.
