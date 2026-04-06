@@ -10,3 +10,4 @@ This repository contains scripts for processing and managing datacube layers in 
 - [spectral_diversity](./datacube_layer_scripts/spectral_diversity): Scripts for calculating spectral diversity based on seasonal median composites of Sentinel-2 bands.
 - [spectral_indices](./datacube_layer_scripts/spectral_indices): Scripts for generating tiled spectral index images in GEE.
 - [source_svc.sh](./datacube_layer_scripts/source_svc.sh): Set path for Google credentials. This helper script is used for granting Google bucket access during HPC jobs.
+[generate_datacube_cogs](./generate_datacube_cogs): Scripts for generating public COGs from internal Google bucket tiles.
