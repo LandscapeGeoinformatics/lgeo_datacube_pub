@@ -1,0 +1,67 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Uuemaa"
+  given-names: "Evelyn"
+  orcid: https://orcid.org/0000-0002-0782-6740
+- family-names: "Borysenko"
+  given-names: "Oleksandr"
+  orcid: https://orcid.org/0000-0003-2258-6172
+- family-names: "Biju"
+  given-names: "Arathi"
+  orcid: https://orcid.org/0009-0008-0500-9123
+- family-names: "Chan"
+  given-names: "Wai Tik"
+  orcid: https://orcid.org/0009-0005-3779-139X
+- family-names: "Fauzan"
+  given-names: "Muhammad Afif"
+  orcid: https://orcid.org/0000-0003-0898-5687
+- family-names: "Guaman Pintado"
+  given-names: "Pamela Maricela"
+  orcid: https://orcid.org/0009-0003-5654-8622
+- family-names: "Helm"
+  given-names: "Aveliina"
+  orcid: https://orcid.org/0000-0003-2338-4564
+- family-names: "Jemeljanova"
+  given-names: "Marta"
+  orcid: https://orcid.org/0000-0002-7063-2236
+- family-names: "Kasak"
+  given-names: "Kuno"
+  orcid: https://orcid.org/0000-0002-0810-2154
+- family-names: "Muru"
+  given-names: "Merle"
+  orcid: https://orcid.org/0000-0002-4422-2639
+- family-names: "Ostonen-Märtin"
+  given-names: "Ivika"
+  orcid: https://orcid.org/0000-0001-9043-6083
+- family-names: "Pisek"
+  given-names: "Jan"
+  orcid: https://orcid.org/0000-0003-0396-2072
+- family-names: "Remmelg"
+  given-names: "Ats"
+- family-names: "Runnel"
+  given-names: "Kadri"
+  orcid: https://orcid.org/0000-0002-7308-3623
+- family-names: "Sisas"
+  given-names: "Eveli"
+  orcid: https://orcid.org/0009-0002-5032-249X
+- family-names: "Uusõue"
+  given-names: "Mirjam"
+  orcid: https://orcid.org/0000-0002-6915-2315
+- family-names: "Viira"
+  given-names: "Ants-Hannes"
+  orcid: https://orcid.org/0000-0002-4672-3816
+- family-names: "Veromann"
+  given-names: "Eve"
+  orcid: https://orcid.org/0000-0002-0977-5270
+- family-names: "Virro"
+  given-names: "Holger"
+  orcid: https://orcid.org/0000-0001-6110-5453
+- family-names: "Kmoch"
+  given-names: "Alexander"
+  orcid: https://orcid.org/0000-0003-4386-4450
+title: "Code supplement: National data cube for environmental modelling and monitoring"
+version: 1.0.1
+doi: 10.5281/zenodo.17867740
+date-released: 2026-04-07
+url: "https://github.com/LandscapeGeoinformatics/lgeo_datacube_pub"
