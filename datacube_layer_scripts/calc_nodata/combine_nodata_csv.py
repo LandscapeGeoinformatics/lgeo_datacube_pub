@@ -8,7 +8,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument(
     "--source",
     required=True,
-    choices=["lsat", "sentinel1", "sentinel2"]
+    choices=["landsat", "sentinel1", "sentinel2"]
 )
 args = parser.parse_args()
 source = args.source

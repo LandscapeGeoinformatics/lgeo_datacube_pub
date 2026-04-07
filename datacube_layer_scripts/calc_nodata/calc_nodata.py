@@ -16,7 +16,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument(
     "--source",
     required=True,
-    choices=["lsat", "sentinel1", "sentinel2"]
+    choices=["landsat", "sentinel1", "sentinel2"]
 )
 args = parser.parse_args()
 source = args.source
@@ -24,7 +24,7 @@ source = args.source
 task_id = int(os.environ["SLURM_ARRAY_TASK_ID"])
 
 # Get short source name for file paths
-if source == "lsat":
+if source == "landsat":
     source_short = "lsat"
 elif source == "sentinel1":
     source_short = "s1"
