@@ -12,3 +12,5 @@ This repository contains scripts for processing and managing datacube layers in 
 - [source_svc.sh](./datacube_layer_scripts/source_svc.sh): Set path for Google credentials. This helper script is used for granting Google bucket access during HPC jobs.
 
 [generate_datacube_cogs](./generate_datacube_cogs): Scripts for generating public COGs from internal Google bucket tiles.
+
+[extract_indices_values](./extract_indices_values): Scripts for extracting values and statistics for points and polygons from public spectral index COGs via STAC.
