@@ -1,6 +1,6 @@
 # Demo notebook for extracting values from COGs
 
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/LandscapeGeoinformatics/lgeo_datacube_pub/blob/main/extract_indices_values/extract_pixel_value_stac.ipynb])
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LandscapeGeoinformatics/lgeo_datacube_pub/blob/main/extract_indices_values/extract_pixel_value_stac.ipynb)
 
 This directory contains an example notebook for extracting values and zonal statistics from various environmental layers, such as satellite-derived seasonal spectral indices and Digital Elevation Model (DEM)-derived layers, available in the public data cube, using points and polygons. The scripts leverage STAC queries to access specified index collections.
 
