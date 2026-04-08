@@ -7,7 +7,7 @@ This directory contains an example notebook for extracting values and zonal stat
 We provide the following files:
 * [extract_pixel_value_stac.ipynb](./extract_pixel_value_stac.ipynb): Demo notebook to extract pixel values for given points and polygons from COGs.
 * `demo_point.gpkg`: Points used in the demo notebook
-* `demo_polygon.gpkg`: Polygons used in the demo notebook
+* `demo_area.gpkg`: Polygons used in the demo notebook
 
 To run the demo, the following Python libraries are required:
 ```
