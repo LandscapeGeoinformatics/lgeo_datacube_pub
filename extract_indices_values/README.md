@@ -1,7 +1,17 @@
-# Scripts for extracting values from spectral index COGs
+# Demo notebook for extracting values from COGs
 
-This directory contains the examples of notebooks used for extracting values and statistics from the various seasonal spectral indices available in the public data cube. The scripts leverage STAC queries to access specified index collections.
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/LandscapeGeoinformatics/lgeo_datacube_pub/blob/main/extract_indices_values/extract_pixel_value_stac.ipynb])
 
-We provide the following scripts:
-* [extract_cog_zonstats_external.ipynb](./extract_cog_zonstats_external.ipynb): Extracts zonal statistics from seasonal COGs for polygons.
-* [extract_pixel_value_stac.ipynb](./extract_pixel_value_stac.ipynb): Extracts values for given points from seasonal COGs.
+This directory contains an example notebook for extracting values and zonal statistics from various environmental layers, such as satellite-derived seasonal spectral indices and Digital Elevation Model (DEM)-derived layers, available in the public data cube, using points and polygons. The scripts leverage STAC queries to access specified index collections.
+
+We provide the following files:
+* [extract_pixel_value_stac.ipynb](./extract_pixel_value_stac.ipynb): Demo notebook to extract pixel values for given points and polygons from COGs.
+* `demo_point.gpkg`: Points used in the demo notebook
+* `demo_polygon.gpkg`: Polygons used in the demo notebook
+
+To run the demo, the following Python libraries are required:
+```
+geopandas
+rasterstat
+pystac_client
+```
