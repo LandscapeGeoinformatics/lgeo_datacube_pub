@@ -2,6 +2,8 @@
 
 This repository contains scripts for processing and managing datacube layers in the data cube project published by the Landscape Geoinformatics Lab: https://geokuup.ee/estonia?locale=en.
 
+Zenodo repository: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19483465.svg)](https://doi.org/10.5281/zenodo.19483465)
+
 ## Directories and files
 
 [datacube_layer_scripts](./datacube_layer_scripts):
