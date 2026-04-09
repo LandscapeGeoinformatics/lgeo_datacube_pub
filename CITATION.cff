@@ -62,5 +62,6 @@ authors:
   orcid: https://orcid.org/0000-0003-4386-4450
 title: "Code supplement: National data cube for environmental modelling and monitoring"
 version: 1.0.0
+doi: 10.5281/zenodo.19483465
 date-released: 2026-04-09
 url: "https://github.com/LandscapeGeoinformatics/lgeo_datacube_pub"
