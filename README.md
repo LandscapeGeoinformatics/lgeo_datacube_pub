@@ -1,6 +1,6 @@
 # Code supplement: National data cube for environmental modelling and monitoring
 
-This repository contains scripts for processing and managing datacube layers in the data cube project published by the Landscape Geoinformatics Lab: https://geokuup.ee/estonia?locale=en.
+This repository contains scripts for processing and managing data layers published by the Landscape Geoinformatics Lab: https://geokuup.ee/estonia?locale=en.
 
 Zenodo repository: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19483465.svg)](https://doi.org/10.5281/zenodo.19483465)
 
