@@ -1,4 +1,4 @@
-# Code supplement: National data cube for environmental modelling and monitoring
+# Code supplement: National dataset for environmental modelling and monitoring
 
 This repository contains scripts for processing and managing data layers published by the Landscape Geoinformatics Lab: https://geokuup.ee/estonia?locale=en.
 
