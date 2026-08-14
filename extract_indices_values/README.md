@@ -12,6 +12,6 @@ We provide the following files:
 To run the demo, the following Python libraries are required:
 ```
 geopandas
-rasterstat
+rasterstats
 pystac_client
 ```
